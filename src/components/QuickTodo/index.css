@@ -1,0 +1,84 @@
+.todos-bg-container {
+  padding: 40px;
+  font-family: 'Roboto';
+  background-size: cover;
+}
+
+.todos-heading {
+  text-align: center;
+  font-family: 'bree serif';
+  font-size: 46px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #ffae00;
+}
+
+.create-task-heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffae00;
+}
+
+.create-task-heading-subpart {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 500;
+  color: #ffae35;
+}
+
+.todo-items-heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffae00;
+}
+
+.todo-items-heading-subpart {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 500;
+  color: #ffae35;
+}
+
+.todo-items-container {
+  margin: 0px;
+  padding: 0px;
+}
+
+.todo-user-input {
+  background-color: white;
+  width: 100%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.button {
+  color: white;
+  background-color: #ff9100;
+  font-family: 'Roboto';
+  font-size: 18px;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.empty-view-paragraph {
+  color: #ffae35;
+  font-family: 'Roboto';
+}
+.empty-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
